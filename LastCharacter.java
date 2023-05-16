@@ -7,6 +7,7 @@ public class LastCharacter {
 		String s = "Java";
 		char c []= s.toCharArray();
 		System.out.println(c[3]);
+		System.out.println(s);
 
 	}
 
